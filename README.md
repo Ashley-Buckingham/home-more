@@ -61,9 +61,10 @@ cd home-more
 ### Open App
 Open [`http://localhost:2222`](http://localhost:2222) in browser
 
-## Contributing
+## Contributing/More info
 
 Pull Requests are welcome!
+UI design based on [start bootstrap](https://startbootstrap.com/themes/freelancer/)
 
 ## Other Projects
 

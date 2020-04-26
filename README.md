@@ -64,7 +64,10 @@ Open [`http://localhost:2222`](http://localhost:2222) in browser
 ## Contributing/More info
 
 Pull Requests are welcome!
+
 UI design based on [start bootstrap](https://startbootstrap.com/themes/freelancer/)
+
+Face taken from [thispersondoesnotexist](thispersondoesnotexist.com)
 
 ## Other Projects
 

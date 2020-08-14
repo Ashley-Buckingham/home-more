@@ -1,11 +1,10 @@
 # Home More - A donation platform
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ashley%20Buckingham-brightgreen.svg)](https://ashleybuckingham.co.uk)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Ashley%20Buckingham-brightgreen.svg)](https://ashleybuckingham.co.uk) -->
 ![Last Commit](https://img.shields.io/github/last-commit/Cur50r/stock-searcher)
 ![Node version](https://img.shields.io/badge/node-v12.7.0-blue)
 ![Express version](https://img.shields.io/badge/Express-^4.17.1-important)
 
-# [DEMO](https://donate.ashleybuckingham.co.uk)
 
 Inspired by a challenge by a very good friend. A proof of concept utilizing stripe payment system to enable easy donations to the homeless in a ever growing cashless society.
 
@@ -69,6 +68,6 @@ UI design based on [start bootstrap](https://startbootstrap.com/themes/freelance
 
 Face taken from [thispersondoesnotexist](thispersondoesnotexist.com)
 
-## Other Projects
+<!-- ## Other Projects
 
-[Please check out my other projects on my portfolio.](https://ashleybuckingham.co.uk)
+[Please check out my other projects on my portfolio.](https://ashleybuckingham.co.uk) -->
